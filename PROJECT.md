@@ -4,7 +4,8 @@ I created this interactive dashboard using Microsoft Excel to analyze grocery sa
 ## Dataset used
 - <a href="https://github.com/manjeetyadav7465/-Blinkit-Grocery-Sales-Dashboard-Excel-Project/blob/main/Blinkit%20Dataset.xlsx">Dataset view</a>
 -Dashbord <a href="https://github.com/manjeetyadav7465/-Blinkit-Grocery-Sales-Dashboard-Excel-Project/blob/main/Blinkit.png">Dashbord view</a>
-<img width="1920" height="1080" alt="Blinkit" src="https://github.com/user-attachments/assets/9fbeda0d-fe41-46ec-87e8-d6f7a9cde49d" />
+<img width="1519" height="744" alt="Blinkit" src="https://github.com/user-attachments/assets/32f00933-f1c5-49a4-a19f-14caedc1b4ce" />
+
 
 🔍 Key insights covered:
 • Total & average sales analysis
